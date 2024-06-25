@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from New Zealand, living in Staffordshire</h3>
   
 - 🔭 I’m currently working on [Star Seeker](https://github.com/Kevasc/star-seeker)
+- 🍕 Check out my previous project [Proven Pizza](https://github.com/Kevasc/ProvenPizza)
 
 - 📫 How to reach me **colekevas@gmail.com** 
 
