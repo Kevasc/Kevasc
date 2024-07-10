@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevas, pronounced 'Kee-vis'</h1>
 <h3 align="center">A passionate frontend developer from New Zealand, living in Staffordshire</h3>
   
-- 🔭 I’m currently working on [Star Seeker](https://github.com/Kevasc/star-seeker)
-- 🍕 Check out my previous project [Proven Pizza](https://github.com/Kevasc/ProvenPizza)
+- 🔭 I’m currently working on [Star Seeker](https://github.com/Kevasc/star-seeker-mobile)
+- 👉 Check out my previous projects [Proven Pizza](https://github.com/Kevasc/ProvenPizza) and [Star Seeker](https://github.com/Kevasc/star-seeker)
  
 - 📫 How to reach me **colekevas@gmail.com** 
 
