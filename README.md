@@ -5,7 +5,7 @@
 - 👉 Check out my previous projects:
 - 🍕 [Proven Pizza](https://github.com/Kevasc/ProvenPizza)
 - ✨ [Star Seeker](https://github.com/Kevasc/star-seeker)
-- 🎉 [confetti-form ](https://github.com/Kevasc/confetti-form)
+- 🎉 [Confetti Form ](https://github.com/Kevasc/confetti-form)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
