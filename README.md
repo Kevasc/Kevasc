@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevas, pronounced 'Kee-vis'</h1>   
 <h3 align="center">A passionate Frontend Developer from New Zealand, living in Staffordshire</h3>
   
-- 🔭 I’m currently working on [Star Seeker Mobile](https://github.com/Kevasc/star-seeker-mobile), a react native app.
+- 🔭 I’m currently working on [Star Seeker Mobile](https://github.com/Kevasc/star-seeker-mobile), a react native app
 - 👉 Check out my previous projects:
 - 🍕 [Proven Pizza](https://github.com/Kevasc/ProvenPizza)
 - ✨ [Star Seeker](https://github.com/Kevasc/star-seeker)
