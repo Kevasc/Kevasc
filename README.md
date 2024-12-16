@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on [Beauty Decoder](https://github.com/Kevasc/beauty-decoder), a Next.js web app
 - 👉 Check out my previous projects:
 - 🎅 [Christmas Cocktails](https://github.com/Kevasc/christmas-cocktails)
+- 🎉 [Confetti Form ](https://github.com/Kevasc/confetti-form)
 - 🍕 [Proven Pizza](https://github.com/Kevasc/ProvenPizza)
 - ✨ [Star Seeker](https://github.com/Kevasc/star-seeker)
-- 🎉 [Confetti Form ](https://github.com/Kevasc/confetti-form)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
