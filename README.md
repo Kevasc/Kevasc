@@ -2,7 +2,8 @@
 <h3 align="left">A passionate Frontend Developer from New Zealand, living in Staffordshire</h3>
   
 - 🔭 I’m currently working on [Beauty Decoder](https://github.com/Kevasc/beauty-decoder), a Next.js web app
-👉 Check out my previous projects:
+  <br />
+## Check out my previous projects:
 - 🎅 [Christmas Cocktails](https://github.com/Kevasc/christmas-cocktails)
 - 🎉 [Confetti Form ](https://github.com/Kevasc/confetti-form)
 - 🍕 [Proven Pizza](https://github.com/Kevasc/ProvenPizza)
