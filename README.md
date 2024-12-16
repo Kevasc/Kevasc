@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kevas, pronounced "Kee-vis"</h1> 
 <h3 align="left">A passionate Frontend Developer from New Zealand, living in Staffordshire</h3>
   
-🔭 I’m currently working on [Beauty Decoder](https://github.com/Kevasc/beauty-decoder), a Next.js web app
+ I’m currently working on [Beauty Decoder](https://github.com/Kevasc/beauty-decoder), a Next.js web app
   <br />
 ## Check out my previous projects:
 - 🎅 [Christmas Cocktails](https://github.com/Kevasc/christmas-cocktails)
