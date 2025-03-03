@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jordan</h1> 
+<h1 align="left">Hi 👋, I'm Kevas</h1> 
 <h3 align="left">A passionate Frontend Developer from New Zealand, living in Staffordshire</h3>
   
  I’ve just finished working on [Beauty Decoder](https://github.com/Kevasc/beauty-decoder) check out my code or check out the [live site](https://beauty-decoder.vercel.app/)
