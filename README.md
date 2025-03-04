@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kevas</h1> 
 <h3 align="left">A passionate Frontend Developer from New Zealand, living in Staffordshire </h3>
   
- I’ve just finished working on [Beauty Decoder](https://github.com/Kevasc/beauty-decoder) check out my code or check out the [live site](https://beauty-decoder.vercel.app/)
+ I’ve just finished working on [Beauty Decoder](https://github.com/Kevasc/beauty-decoder) check out my code or the [live site](https://beauty-decoder.vercel.app/)
   <br />
 ## Check out my previous projects:
 - 🎅 [Christmas Cocktails Repository](https://github.com/Kevasc/christmas-cocktails) or  [Christmas Cocktails live site](https://christmas-cocktails-dun.vercel.app/)
